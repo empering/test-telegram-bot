@@ -1,1 +1,1 @@
-release: python test.py migrate
+worker: python test.py migrate
