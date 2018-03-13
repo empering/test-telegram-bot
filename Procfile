@@ -1,1 +1,1 @@
-web: gunicorn gettingstarted.wsgi
+release: python test.py migrate
